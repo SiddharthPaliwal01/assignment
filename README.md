@@ -40,7 +40,7 @@ The system successfully analyzes soccer juggling videos and provides:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/soccer-touch-analysis.git
+git clone [https://github.com/SiddharthPaliwal01/assignment.git]
 cd soccer-touch-analysis
 ```
 
